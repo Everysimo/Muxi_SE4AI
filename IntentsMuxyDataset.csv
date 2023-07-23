@@ -415,8 +415,8 @@ Intent,Text
 1,Puoi fissare un nuovo meeting per il prossimo lunedì?
 1,Schedula un meeting con il team di marketing per discutere delle nuove strategie.
 1,"Schedula un nuovo meeting e chiamalo ""Presentazione del nuovo prodotto""."
-1,Fissa una nuova riunione per il giorno 8 giugno dalle 16:00 alle 18:00.
-1,Puoi programmarmi un meeting per ripetere l'esame con i miei amici per domani alle 17:00 fino alle 19:00?
+1,Crea un nuovo meeting per domani
+1,Creami una riunione
 1,"Programma un nuovo meeting per il team di software engineering per discutere delle modifiche da apportare al progetto, il giorno 8 giugno dalle 16:00 alle 18:00."
 1,"Fissa un meeting ""nuovo direttivo"" per la nomina della presidenza per il 28 maggio, dalle 12:00 alle 16:00."
 1,Programma il meeting con il team di Mattia per giovedì 10 luglio dalle 10:00 alle 11:00.
@@ -426,19 +426,19 @@ Intent,Text
 1,"Crea un nuovo incontro per il team A, il giorno 7 aprile dalle 17:00 alle 18:00."
 1,"Muxi, fissa un nuovo incontro per il team di sviluppo per martedì 6 giugno dalle 9:00 alle 11:30."
 1,"Muxi, fissa un meeting per il team Human Recruiter il 4 giugno dalle 16:00 alle 16:30."
-1,Puoi schedulare un nuovo meeting per il prossimo venerdì mattina?
+1,Crea riunione
 1,Schedula un incontro con il dipartimento legale per discutere delle questioni contrattuali.
 1,"Schedula un nuovo meeting e chiamalo ""Brainstorming per il lancio del prodotto""."
 1,Fissa una riunione urgente per domani pomeriggio alle 15:00.
 1,Puoi programmare un meeting per il gruppo di ricerca per lunedì alle 10:30?
 1,Programma un nuovo meeting per il team di marketing per il 10 giugno dalle 14:00 alle 16:00.
-1,"Fissa un meeting ""Aggiornamento del progetto"" per il 28 maggio, dalle 9:00 alle 12:00."
+1,Crea un nuovo incontro
 1,Programma il meeting con il team di vendita per giovedì 10 luglio dalle 14:00 alle 15:00.
 1,"Muxi, fissa un incontro con il cliente per domani mattina alle 9:30."
 1,Inserisci una nuova riunione con il team di progettazione il giorno 10 giugno dalle 13:00 alle 15:00.
 1,"Muxi, puoi fissare un nuovo incontro per il team di risorse umane per discutere delle politiche aziendali per il 16 giugno dalle 10:00 alle 11:00?"
 1,"Crea un meeting per il 18 agosto chiamato ""Team Human Recruiter"" per discutere delle strategie di reclutamento."
-1,Fissa una nuova riunione il giorno 8 giugno dalle 16:00 alle 18:00 per affrontare le questioni urgenti del progetto.
+1,Programma un incontro
 1,Programma un nuovo meeting per il team di software engineering il giorno 8 giugno dalle 16:00 alle 18:00 per discutere delle modifiche da apportare al progetto.
 1,Crea un nuovo incontro per il Team A il giorno 7 aprile dalle 17:00 alle 18:00 per fare il punto sulla situazione attuale.
 1,Crea un incontro per discutere delle strategie di marketing.
